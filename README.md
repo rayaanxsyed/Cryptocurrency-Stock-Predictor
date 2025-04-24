@@ -8,7 +8,7 @@ To run the crypto and stock predictor on your local machine, follow the steps be
 
 ### 1. **Download the Files**
    - Clone the repository to your computer using the following command:
-   ```git clone https://github.com/yourusername/crypto-stock-predictor.git```
+   Run: ```git clone https://github.com/yourusername/crypto-stock-predictor.git```
 
 ### 2. **Install Required Libraries**
 - Some libraries include: matplotlib, scikit-learn, yfinance, numpy, pandas, etc.
@@ -22,7 +22,7 @@ To run the crypto and stock predictor on your local machine, follow the steps be
 ### 3. **Run The Python File**
 - Ensure Python is installed and updated.
 
-```python stock_crypto_predictor.py```
+Run: ```python stock_crypto_predictor.py```
 
 
 
